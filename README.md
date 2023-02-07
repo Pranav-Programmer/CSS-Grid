@@ -1,7 +1,4 @@
 # CSS-Grid
-
-Visit site at https://pranav-programmer.github.io/CSS-Grid/
-
 Website Demo
 
 
